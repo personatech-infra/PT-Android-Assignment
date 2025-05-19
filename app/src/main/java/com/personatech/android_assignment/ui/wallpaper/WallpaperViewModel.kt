@@ -1,7 +1,6 @@
 package com.personatech.android_assignment.ui.wallpaper
 
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.viewModelScope
 import com.personatech.android_assignment.model.Wallpaper
 import com.personatech.android_assignment.repository.WallpaperRepository
 import kotlinx.coroutines.GlobalScope

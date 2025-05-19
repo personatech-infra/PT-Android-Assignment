@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PersonaTech Assignment"
+rootProject.name = "PT-Android-Assignment"
 include(":app")
