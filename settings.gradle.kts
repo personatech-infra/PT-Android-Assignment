@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PT_Assignment"
+rootProject.name = "PersonaTech Assignment"
 include(":app")
- 
